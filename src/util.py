@@ -1,5 +1,4 @@
 import sqlite3
-from src.general_page import page_general
 from tkinter import ttk, messagebox
 
 def remove_widgets(root):
